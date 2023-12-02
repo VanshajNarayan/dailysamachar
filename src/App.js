@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+import { useEffect } from 'react';
 import './App.css';
+import FirstPage from './Components/FirstPage';
+import { useState } from 'react';
 
 function App() {
+  const [newsApi, setNewsApi] = useState([]);
+  const newsApiFx = async () => {
+    const response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=50ee585bf1364c1db2d0b89b0b504a7b");
+    const data = await response.json();
+    let articlesData = data.articles;
+    setNewsApi(articlesData);
+  };
+  useEffect(() => {
+    newsApiFx();
+  }, []);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <FirstPage newsApi = {newsApi} />
     </div>
   );
 }
