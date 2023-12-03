@@ -5,20 +5,22 @@ import { useState } from 'react';
 
 function App() {
   const [newsApi, setNewsApi] = useState([]);
-  const newsApiFx = async () => {
+  useEffect(() => {
     try {
-      const response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=50ee585bf1364c1db2d0b89b0b504a7b");
-      if (response.status >= 200 && response.status < 300) {
-        const data = await response.json();
-        let articlesData = data.articles;
+      fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=50ee585bf1364c1db2d0b89b0b504a7b").then((response) => {
+        if (response.status >= 200 && response.status < 300) {
+          const data = response.json();
+          return data;
+        }
+      }).then((data) => {
+        const articlesData = data.articles;
+        return articlesData;
+      }).then((articlesData) => {
         setNewsApi(articlesData);
-      };
+      })
     } catch (error) {
       console.log("something is wrong");
     };
-  };
-  useEffect(() => {
-    newsApiFx();
   }, []);
   return (
     <div className="App">
