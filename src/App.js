@@ -6,11 +6,15 @@ import { useState } from 'react';
 function App() {
   const [newsApi, setNewsApi] = useState([]);
   const newsApiFx = async () => {
-    const response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=50ee585bf1364c1db2d0b89b0b504a7b");
-    if (response.status >= 200 && response.status < 500) {
-      const data = await response.json();
-      let articlesData = data.articles;
-      setNewsApi(articlesData);
+    try {
+      const response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=50ee585bf1364c1db2d0b89b0b504a7b");
+      if (response.status >= 200 && response.status < 300) {
+        const data = await response.json();
+        let articlesData = data.articles;
+        setNewsApi(articlesData);
+      };
+    } catch (error) {
+      console.log("something is wrong");
     };
   };
   useEffect(() => {
