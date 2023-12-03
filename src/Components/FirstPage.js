@@ -3,7 +3,7 @@ const FirstPage = ({newsApi}) => {
     <>
       <h2>This is News Websites</h2>
       {
-        newsApi.map((newsData, index) => (
+        newsApi.articles.map((newsData, index) => (
           <p key={index}> {newsData.author} </p>
         ))
       }
