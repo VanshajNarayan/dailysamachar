@@ -22,9 +22,6 @@ const MobileNavbar = ({show, setShow}) => {
             <NavLink to="/science">Science</NavLink>
           </li>
           <li>
-            <NavLink to="/general">General</NavLink>
-          </li>
-          <li>
             <NavLink to="/health">Health</NavLink>
           </li>
           <li>

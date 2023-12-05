@@ -23,7 +23,7 @@ const Cards = ({newsApi}) => {
             <div className="textContent">
               <h3 className="title"> {data.title.slice(0, 50)}... </h3>
               <p className="dateTime"> {data.source.name} : {data.author === null ? "unknow author" : data.author} </p>
-              <h5 className="description"> {data.description === null ? "A paragraph can be considered as empty" : data.description.slice(0, 80)} </h5>
+              <h5 className="description"> {data.description === null ? "A paragraph can be considered as empty..." : data.description.slice(0, 80)}... </h5>
             </div>
           </div>
               </a>

@@ -1,5 +1,5 @@
 .mobileNav_items{
-  background-color:  #000;
+  background-color:  #fff;
   position: absolute;
   width: 100%;
 }
@@ -14,13 +14,13 @@
 }
 
 .mobileNav_items ul li .active{
-  color: red;
+  color: #6DB9EF;
 }
 
 .mobileNav_items ul li a{
   display: block;
   text-decoration: none;
-  color: #fff;
+  color: #000;
   margin-top: 2rem;
   font-size: 1.2rem;
   font-weight: 600;

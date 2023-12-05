@@ -1,9 +1,11 @@
+import { HealthNewsApi } from "../ApiFolder/HealthNewsApi";
+import Cards from "../CardsFolder/Cards";
 import "./Health.css";
 
 const Health = () => {
   return (
     <>
-      <h3>This is Health Page</h3>
+      <Cards newsApi = {HealthNewsApi} />
     </>
   )
 };
