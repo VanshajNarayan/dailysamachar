@@ -6,15 +6,28 @@ export const NewsApi =
     {
       "source": {
         "id": null,
-        "name": "News18"
+        "name": "YouTube"
       },
-      "author": "Pragati Pal",
-      "title": "Tamil Nadu: ED Official Arrested in Rs 3 Crore Bribery Case, Raids Conducted for 13 Hours | Latest Updates - News18",
-      "description": "The officer, identified as Ankit Tiwari, was arrested by state vigilance and anti-corruption and has been sent to judicial custody till December 15",
-      "url": "https://www.news18.com/india/tamil-nadu-ed-officer-ankit-tiwari-rs-3-crore-bribery-case-arrest-raids-enforcement-directorate-madurai-8686665.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/tamil-nadu-rs-3-crore-bribery-case-ed-officer-ankit-tiwari-arrested-2023-12-ae7deaf888919f5e163f82f92739e0d5-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-12-02T08:40:57Z",
-      "content": "In October, he contacted a government employee from Dindigul and told him about a Vigilance case registered against him which was already disposed off. Tiwari told the employee that instructions had … [+261 chars]"
+      "author": null,
+      "title": "China Mystery Pneumonia: Children fall sick in Denmark, U.S, the Netherlands | This World - WION",
+      "description": "A mystery pneumonia is spreading across China. Beijing claims that there is no novel virus, instead, the infections are from known viruses, and bacteria. Chi...",
+      "url": "https://www.youtube.com/watch?v=62o8JA8HsS0",
+      "urlToImage": "https://i.ytimg.com/vi/62o8JA8HsS0/maxresdefault.jpg",
+      "publishedAt": "2023-12-02T15:57:49Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sportskeeda"
+      },
+      "author": "Suyash Sahay",
+      "title": "GTA 6 Map Leaks: Biggest map changes in GTA 6 expected by the community - Sportskeeda",
+      "description": "Several GTA 6 map leaks have emerged online in the last few years.",
+      "url": "https://www.sportskeeda.com/gta/gta-6-map-leaks-biggest-map-changes-gta-6-expected-community",
+      "urlToImage": "https://staticg.sportskeeda.com/editor/2023/12/5dea7-17015294275799-1920.jpg",
+      "publishedAt": "2023-12-02T15:32:00Z",
+      "content": "Several GTA 6 map leaks have emerged online in the last few years. The most prominent one among these is still the development footage leak from September 2022, which heavily suggested the next Grand… [+2696 chars]"
     },
     {
       "source": {
@@ -22,38 +35,12 @@ export const NewsApi =
         "name": "The Hindu"
       },
       "author": "The Hindu",
-      "title": "Jharkhand puts hospitals on alert amid pneumonia outbreak in China - The Hindu",
+      "title": "Magnitude 7.5 earthquake strikes Mindanao, Philippines; tsunami warnings issued - The Hindu",
       "description": null,
-      "url": "https://www.thehindu.com/news/national/other-states/jharkhand-puts-hospitals-on-alert-amid-pneumonia-outbreak-in-china/article67597398.ece",
+      "url": "https://www.thehindu.com/news/international/earthquake-philippines-tsunami-warning-updates-december-2-2023/article67598630.ece",
       "urlToImage": null,
-      "publishedAt": "2023-12-02T08:09:00Z",
+      "publishedAt": "2023-12-02T15:08:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Parliament Winter Session 2023: ‘Govt fully ready for structured debate,’ says Pralhad Joshi. Check list of bills here | Mint - Mint",
-      "description": "Parliamentary Affairs Minister Pralhad Joshi on Saturday said that the government is fully ready for structured debate and they have requested the opposition to let House function smoothly.",
-      "url": "https://www.livemint.com/news/winter-session-2023-govt-fully-ready-for-structured-debate-says-pralhad-joshi-11701502989570.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/02/1600x900/PTI12-02-2023-000023A-0_1701503893834_1701503915616.jpg",
-      "publishedAt": "2023-12-02T07:44:24Z",
-      "content": "Parliamentary Affairs Minister Pralhad Joshi on Saturday said that the government is fully ready for structured debate and they have requested the opposition to let the House function smoothly.\r\n As … [+3603 chars]"
-    },
-    {
-      "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
-      },
-      "author": "Shashank Kishore",
-      "title": "WPL 2024 auction: Athapaththu, Dottin among 165 players in the pool - ESPNcricinfo",
-      "description": "Among the top capped India players listed in the final pool are Veda Krishnamurthy, S Meghana, Meghna Singh and Devika Vaidya",
-      "url": "https://www.espncricinfo.com/story/wpl-2023-auction-chamari-athapaththu-deandra-dottin-kim-garth-among-165-players-to-go-under-the-hammer-1411336",
-      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/366500/366517.6.jpg",
-      "publishedAt": "2023-12-02T06:34:38Z",
-      "content": "NewsAmong the top capped India players listed in the final pool are Veda Krishnamurthy, S Meghana, Meghna Singh and Devika Vaidya"
     },
     {
       "source": {
@@ -61,129 +48,38 @@ export const NewsApi =
         "name": "NDTV News"
       },
       "author": null,
-      "title": "Italy's Leaning Tower Steady No Longer, On Verge Of Collapse: Scientists - NDTV",
-      "description": "The Garisenda tower in Italy's Bologna, also known as the 'leaning tower', has been steady for nearly 1,000 years. But the tallest tower in the town is now at risk of collapsing due to excessive leaning, according to reports.",
-      "url": "https://www.ndtv.com/world-news/italy-leaning-tower-steady-no-longer-on-verge-of-collapse-scientists-4626390",
-      "urlToImage": "https://c.ndtvimg.com/2023-12/erls5rhc_bologna-leaning-tower_625x300_02_December_23.jpeg?ver-20231128.06",
-      "publishedAt": "2023-12-02T06:07:25Z",
-      "content": "The 150-foot tall tower has been leaning at an angle of 4 degrees since the 14th century\r\nNew Delhi: The Garisenda tower in Italy's Bologna, also known as the 'leaning tower', has been steady for nea… [+1686 chars]"
+      "title": "\"Total Destruction\" Of Hamas Would Mean \"War Will Last 10 Years\": Macron - NDTV",
+      "description": "French President Emmanuel Macron said on Saturday that France was \"very concerned\" by the resumption of violence in Gaza and that he was heading to Qatar to help in efforts to kickstart a new truce ahead of a ceasefire.",
+      "url": "https://www.ndtv.com/world-news/total-destruction-of-hamas-would-mean-war-will-last-10-years-emmanuel-macron-4627425",
+      "urlToImage": "https://c.ndtvimg.com/2023-12/j595acng_emmanuel-macron_625x300_02_December_23.jpeg?ver-20231128.06",
+      "publishedAt": "2023-12-02T14:10:39Z",
+      "content": "Emmanuel Macron urged Israel to clarify its goals towards Hamas\r\nDubai: French President Emmanuel Macron said on Saturday that France was \"very concerned\" by the resumption of violence in Gaza and th… [+1096 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Siasat Daily"
+        "name": "Livemint"
       },
-      "author": "Zahed Farooqui",
-      "title": "Telangana election results: Counting process, timing unveiled - The Siasat Daily",
-      "description": "Ahead of the Telangana assembly election results, Chief Electoral Officer Vikas Raj has unveiled the vote counting process and the timing.",
-      "url": "https://www.siasat.com/telangana-election-results-counting-process-timing-unveiled-2924731/",
-      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2023/12/counting-centers-Hyderabad.jpg",
-      "publishedAt": "2023-12-02T06:03:26Z",
-      "content": "Hyderabad: Ahead of the Telangana assembly election results, Chief Electoral Officer Vikas Raj has unveiled the vote counting process and the timing. He said that the final results are set to be reve… [+1849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News18"
-      },
-      "author": "Akriti Anand",
-      "title": "Animal: Rashmika Shuts Down Trolls As Her VIRAL Scene With Ranbir Kapoor Impresses Audience - News18",
-      "description": "It was reported that the CBFC gave the film an Adults Only (A) certificate and asked director Sandeep Reddy Vanga to make five changes.",
-      "url": "https://www.news18.com/movies/animal-rashmika-mandanna-ranbir-kapoor-viral-scene-video-fans-react-8686687.html",
-      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/12/rashmika-trailer-2023-12-558bd537e26151eb1f33c3f2bf645f94-16x9.jpg?impolicy=website&width=1200&height=675",
-      "publishedAt": "2023-12-02T06:02:25Z",
-      "content": "Rashmika Mandanna Mandanna and Ranbir Kapoors intimate scene from Animal has gotten huge attention from the audience. It was leaked online and since then it has created a stir on social media. Howeve… [+1825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Science Desk",
-      "title": "NASA's Artemis 3 mission won't land humans on Moon till 2027: Report - The Indian Express",
-      "description": "The United States Government Accountability Office estimates that NASA's Artemis 3 mission will only land humans on the Moon in 2027.",
-      "url": "https://indianexpress.com/article/technology/science/nasa-artemis-3-mission-delay-2027-9051087/",
-      "urlToImage": "https://images.indianexpress.com/2023/12/Artemis-3-mission-20231202.jpg",
-      "publishedAt": "2023-12-02T06:00:40Z",
-      "content": "NASAs ambitious Artemis programme gave a shot in the arm for space exploration with its mission to put humans back on the Moon. But now, it seems like the space agencys Artemis 3 mission, which will … [+2317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mizoram.gov.in"
-      },
-      "author": null,
-      "title": "DIRECTORATE OF INFORMATION & PUBLIC RELATIONS, Government of Mizoram, India - DIRECTORATE OF INFORMATION & PUBLIC RELATIONS",
-      "description": "Official website of DIRECTORATE OF INFORMATION & PUBLIC RELATIONS. Powered by SENHRI. A Content Management System provided by Department of Information & Communication Technology, Government of Mizoram.",
-      "url": "https://dipr.mizoram.gov.in/post/mamit-ah-world-aids-day-hman-a-ni",
-      "urlToImage": "https://dict.mizoram.gov.in/uploads/attachments/ff7a94802085555083b2086440a0a871/pillar.png",
-      "publishedAt": "2023-12-02T05:47:00Z",
-      "content": "2910/2023-2024\r\nMamit 2nd December, 2023 : Tukin khan Mamit Bazar hmunah District AIDS Prevention &amp; Control Committee (DAPCC) huaihawtin World AIDS Day - 2023 'Let Communities Lead' tih thupui hm… [+1034 chars]"
+      "author": "Livemint",
+      "title": "Photomojis, Voice Moods, and more: Google Messages receives major update | Mint - Mint",
+      "description": "The latest update to Google Messages brings a reminiscent feel of Apple's iMessage, with features like Photomojis, Voice Moods, Screen Effects, Custom Bubbles, Reaction Effects, and Animated Emojis to elevate the overall user experience.",
+      "url": "https://www.livemint.com/technology/tech-news/photomojis-voice-moods-and-more-google-messages-receives-major-update-11701525339568.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/02/1600x900/google2-kLmH--621x414LiveMint_1701525569228_1701525569374.jpg",
+      "publishedAt": "2023-12-02T14:05:11Z",
+      "content": "The latest update to Google Messages, the default messaging app on many Android phones, has brought about a substantial transformation. With a revamped user interface, the app now exudes a fresh and … [+2505 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Hindustan Times"
       },
-      "author": "HT Tech",
-      "title": "Two CMEs hit Earth, spark extra strong solar storm; NASA model shows more could be on the way - HT Tech",
-      "description": "Intense solar storm activity was detected over the last few hours after two CMEs struck the Earth. The auroras were observed as far south as New Mexico in the US. NASA model suggests more CMEs could be on the way.",
-      "url": "https://tech.hindustantimes.com/tech/news/two-cmes-hit-earth-spark-extra-strong-solar-storm-nasa-model-shows-more-could-be-on-the-way-71701495689239.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2023/12/02/1600x900/solar-flare-67532_1920_1_1663740280289_1701495736448.jpg",
-      "publishedAt": "2023-12-02T05:44:55Z",
-      "content": "The solar activity on Earth has intensified. Yesterday, December 1, it was reported that a second coronal mass ejection (CME) was headed for the Earth which could turn the ongoing solar storm even mo… [+2473 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": "Nitin Kumar Srivastava",
-      "title": "Virat Kohli's T20I future to be discussed by BCCI and selectors, 2024 T20 World Cup participation in doubt - India Today",
-      "description": "In a sensational development, superstar India batter Virat Kohli’s participation in next year’s T20 World Cup has been thrown into turmoil as the Board of Control for Cricket in India (BCCI) and selectors will discuss his future in the shortest format of the …",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohlis-t20i-future-to-be-discussed-by-bcci-and-selectors-2024-t20-world-cup-participation-in-doubt-2470198-2023-12-02",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202312/indias-virat-kohli-celebrates-his-half-century-in-final-vs-australia-reuters-194059656-16x9.jpg?VersionId=U6lSvZEcx2vQU6kIf6YP3cBN_IUdeAXi",
-      "publishedAt": "2023-12-02T05:43:02Z",
-      "content": "In a sensational development, superstar India batter Virat Kohli’s participation in next year’s T20 World Cup has been thrown into turmoil as the Board of Control for Cricket in India (BCCI) and sele… [+2015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Koimoi"
-      },
-      "author": "Trisha Gaur",
-      "title": "Alia Bhatt’s ‘Awkward’ Hug With Ranbir Kapoor’s Animal Co-Star Rashmika Mandanna Makes The Internet Go, “Mere Pati Se Gulu Gulu Karegi To Dhoptungi Hi Naa Uska!” – Watch - Koimoi",
-      "description": "Alia Bhatt and Rashmika Mandanna's video sharing an awkward hug at the screening of Ranbir Kapoor's film Animal has gone viral. Watch!",
-      "url": "https://www.koimoi.com/bollywood-news/alia-bhatts-awkward-hug-with-ranbir-kapoors-animal-co-star-rashmika-mandanna-makes-the-internet-go-mere-pati-se-gulu-gulu-karegi-to-dhoptungi-hi-naa-uska-watch/",
-      "urlToImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2023/12/alia-bhatts-awkward-hug-with-rashmika-mandanna-makes-the-internet-go-mere-pati-se-gulu-gulu-karegi-to-dhoptungi-hi-naa-uska-001.jpg",
-      "publishedAt": "2023-12-02T05:32:09Z",
-      "content": "Alia Bhatt &amp; Rashmika Manadanna’s Awkward Hug From Animal Screening Makes The Netizens Go ROFL(Photo Credit Instagram/YouTube)\r\nAlia Bhatt recently set some wifey goals as she literally wore Ranb… [+2564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": "Moneycontrol News",
-      "title": "‘Melodi’ trends big time after Italy PM Giorgia Meloni shares selfie with PM Narendra Modi - Moneycontrol",
-      "description": "Italian Prime Minister Giorgia Meloni shared a selfie with Prime Minister Narendra Modi, taken at the COP28 climate summit in Dubai, and added the hashtag #Melodi.",
-      "url": "https://www.moneycontrol.com/news/trends/melodi-trends-big-time-after-italy-pm-giorgia-meloni-shares-selfie-with-pm-narendra-modi-11843101.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/MixCollage-02-Dec-2023-10-42-AM-6391-770x433.jpg",
-      "publishedAt": "2023-12-02T05:20:38Z",
-      "content": "Italian Prime Minister Giorgia Meloni has broken the internet with a single hashtag. On Friday, Meloni shared a selfie with Prime Minister Narendra Modi, taken at the COP28 climate summit in Dubai, a… [+1743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Garena Free Fire Max redeem codes for Dec 02, 2023: Win daily exciting rewards | Mint - Mint",
-      "description": "Players can redeem daily codes on the dedicated microsite to win various in-game rewards, but they should hurry as the codes are available for a limited time and for the first 500 users only.",
-      "url": "https://www.livemint.com/technology/tech-news/garena-free-fire-max-redeem-codes-for-dec-02-2023-win-daily-exciting-rewards-11701493960976.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/02/1600x900/ggfm_1692069445939_1701494095023.webp",
-      "publishedAt": "2023-12-02T05:16:43Z",
-      "content": "Garena Free Fire Max redeem codes can be used to win in-game items like weapons, diamonds, skins and more. These 12 digit alphanumeric codes consist of capital letters and numbers. For those unaware,… [+2142 chars]"
+      "author": "HT News Desk",
+      "title": "‘Technical glitch’, says Byju's as November salaries of 1000 employees delayed - Hindustan Times",
+      "description": "In a statement, the Bengaluru-based edtech firm said the delayed salaries will be credited by Monday.",
+      "url": "https://www.hindustantimes.com/business/unexpected-technical-glitch-says-byjus-as-november-salaries-of-1000-employees-delayed-101701522330606.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/02/1600x900/INDIA-BYJU-S-5_1687707172966_1701522338412.jpg",
+      "publishedAt": "2023-12-02T13:55:35Z",
+      "content": "Byju's has delayed November salaries for around 1000 employees, with the company planning to credit the pending payments by Monday.\r\nByju's logo seen in front of one of the company's branches. (Bloom… [+1681 chars]"
     },
     {
       "source": {
@@ -191,77 +87,181 @@ export const NewsApi =
         "name": "NDTV News"
       },
       "author": null,
-      "title": "Rajasthan Election Results 2023: How To Check Election Results Online - NDTV",
-      "description": "Election Results: The voting for 199 of the 200 Assembly seats in Rajasthan was held on November 25, with roughly 75.45 per cent of the eligible voters exercising their franchise.",
-      "url": "https://www.ndtv.com/india-news/how-to-check-rajasthan-election-result-2023-online-4624731",
-      "urlToImage": "https://c.ndtvimg.com/2019-07/p3aujdu8_ashok-gehlot-pti_625x300_10_July_19.jpg",
-      "publishedAt": "2023-12-02T04:13:52Z",
-      "content": "Election Results: The election results will be declared on Sunday, December 3.\r\nThe voting for 199 of the 200 Assembly seats in Rajasthan was held on November 25, with roughly 75.45 per cent of the e… [+2163 chars]"
+      "title": "Israel Recalls Negotiation Team From Qatar After Dead End In Hostage Talks - NDTV",
+      "description": "Both sides blamed each other for the breakdown of the truce, which had enabled the release of 80 Israeli hostages in exchange for 240 Palestinian prisoners.",
+      "url": "https://www.ndtv.com/world-news/israel-recalls-negotiation-team-from-qatar-after-dead-end-in-hostage-talks-4627324",
+      "urlToImage": "https://c.ndtvimg.com/2023-11/dofccdsg_israel-attack-in-gaza-reuters_625x300_24_November_23.jpeg?im=FeatureCrop,algorithm=dnn,width=650,height=400",
+      "publishedAt": "2023-12-02T13:26:54Z",
+      "content": "Both sides have blamed each other for the breakdown of the truce\r\nJerusalem: Israel and Hamas brushed off international calls to renew an expired truce Saturday as air strikes pounded targets in Gaza… [+6032 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BusinessLine"
+        "name": "India TV News"
       },
-      "author": "Arushi Mishra",
-      "title": "WhatsApp unveils ‘Secret Code’ feature to enhance privacy - BusinessLine",
-      "description": "WhatsApp unveils ‘Secret Code’ feature to reinforce privacy of locked chats. Users can set a unique password, hide folder from chat list, or leave it visible. Tap and hold to lock new chats. Feature now available, rolling out globally in coming months.",
-      "url": "https://www.thehindubusinessline.com/info-tech/social-media/whatsapp-unveils-secret-code-feature-to-enhance-privacy/article67593544.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/x4wsf4/article67116035.ece/alternates/LANDSCAPE_1200/2023-07-19T210310Z_1951251194_RC291W9TS9JF_RTRMADP_3_META-PLATFORMS-OUTAGES-WHATSAPP.JPG",
-      "publishedAt": "2023-12-02T03:38:37Z",
-      "content": "Earlier this year, WhatsApp introduced the Chat Lock feature to enhance the security of private conversations. Yesterday, WhatsApp unveiled the Secret Code function, providing an additional layer of … [+949 chars]"
+      "author": "Edited by Anshul Gupta",
+      "title": "Pro Kabaddi League Live telecast: When and where to watch PKL 10 for free on streaming in India? - India TV News",
+      "description": "The 10th edition of the Pro Kabaddi League is set to kick off on Saturday, December 2 in Ahmedabad. There have been some massive transfers ahead of the 2023-24 edition and the season opener will showcase both of them as Fazel Atrachali's Gujarat Giants take o…",
+      "url": "https://www.indiatvnews.com/sports/other/pro-kabaddi-league-live-telecast-when-and-where-to-watch-pkl-10-for-free-on-streaming-in-india-2023-12-02-905449",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/12/75932-1-1701520077.jpg",
+      "publishedAt": "2023-12-02T13:25:06Z",
+      "content": "The season of Kabaddi is here. From what it was in 2013 when it started to what it is now, the Pro Kabaddi League (PKL) has come leaps and bounds and it can be safely said that it has been instrument… [+4356 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Bar & Bench - Indian Legal News"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "India Surpass Pakistan To Script Huge T20I Record After Series Win vs Australia - NDTV Sports",
-      "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
-      "url": "https://www.bbc.com/news/world-us-canada-39324587",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
-      "publishedAt": "2023-12-02T03:18:39Z",
-      "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+      "author": "Prashant Jha",
+      "title": "Kerala nurse on death row: Delhi High Court asks Centre whether Nimisha Priya's family can be allowed to go to Yemen to pay blood money - Bar & Bench - Indian Legal News",
+      "description": "The Delhi High Court on Saturday asked the Central government to inform the Court by December 4 whether the family of Nimisha Priya, a Kerala nurse on death row",
+      "url": "https://www.barandbench.com/news/kerala-nurse-death-row-delhi-high-court-asks-centre-nimisha-priya-family-allowed-yemen-pay-blood-money",
+      "urlToImage": "https://gumlet.assettype.com/barandbench%2F2020-03%2Fa8361b91-a049-4e13-ab8b-34a8503d0cec%2FDelhi_High_Court.jpg?w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-12-02T12:39:29Z",
+      "content": "Advocate Pavan Narang appeared for the Central government today and reiterated before the Court that the Indian government has no diplomatic presence in Yemen after the regime change. As such, it wou… [+878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBCTV18"
+      },
+      "author": "CNBCTV18.COM",
+      "title": "Cryogenic rocket engines: Independent triumph of these six countries - CNBCTV18",
+      "description": "Six global space agencies have independently achieved a significant milestone in space technology by developing their own cryogenic rocket engines.",
+      "url": "https://www.cnbctv18.com/webstories/technology/cryogenic-rocket-engines-independent-triumph-of-these-six-countries-15581.htm",
+      "urlToImage": "https://images.news18.com/webstories/2023/10/cropped-isro-rocket-launch-16665226744x3-1.webp",
+      "publishedAt": "2023-12-02T12:33:39Z",
+      "content": "Cryogenic rocket engines: Independent triumph of these six countries\r\nBy Vivek Dubey\r\nBy Vivek Dubey\r\nCNBC-TV18.com\r\nCNBC-TV18.com\r\nPublished Dec 02, 2023\r\nPublished Dec 02, 2023\r\nSix global space ag… [+1050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "ANI",
+      "title": "Javed Akhtar reveals Raju ‘specifically requested’ him to write this Dunki song - Hindustan Times",
+      "description": "When asked about reuniting with Shah Rukh Khan for Dunki, Javed Akhtar shared an intriguing story about the song.",
+      "url": "https://www.hindustantimes.com/entertainment/javed-akhtar-reveals-raju-hirani-specifically-requested-him-to-write-dunki-song-nikle-the-kabhi-hum-ghar-se-101701519746413.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/02/1600x900/Javed_Akhtar_1701525975902_1701525992679.jpg",
+      "publishedAt": "2023-12-02T12:22:25Z",
+      "content": "Makers of the upcoming comedy-drama film Dunki, starring Shah Rukh Khan, recently unveiled the new track of the film Nikle The Kabhi Hum Ghar Se which received good responses from the audience. The s… [+2131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "Madhya Pradesh election results 2023: When, where, how to check results on Dec 3 - Hindustan Times",
+      "description": "Madhya Pradesh Election Results 2023: Voting for the 230-member Madhya Pradesh legislative assembly took place on November 17. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/madhya-pradesh-election-results-2023-when-where-how-to-check-results-on-december-3-101701514027547.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/02/1600x900/Madhya_Pradesh_Election_Result_2023_1701516317920_1701516318105.jpg",
+      "publishedAt": "2023-12-02T12:18:23Z",
+      "content": "Madhya Pradesh Election Results 2023: The election result for the Madhya Pradesh Assembly election will be announced tomorrow by the Election Commission of India. Follow the full coverage of the Madh… [+3066 chars]"
     },
     {
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "TNN",
-      "title": "‘Increase in severe infections from common viruses in kids’ - Times of India",
-      "description": "Pune: The impact of two years of the Covid lockdown, leading to the disruption of routine immunization, is still evident among children and infants.",
-      "url": "https://timesofindia.indiatimes.com/city/pune/increase-in-severe-infections-from-common-viruses-in-kids/articleshow/105670026.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2023-12-02T03:17:55Z",
-      "content": "Best pre-bridal juices for a glowing skin"
-    },
-    {
-      "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Ronaldo taunted with Messi chants as Al Nassr loses 3-0 in Riyadh derby - The Hindu",
-      "description": null,
-      "url": "https://www.thehindu.com/sport/ronaldo-walks-off-to-chants-of-messi-messi-as-his-team-loses-3-0-in-riyadh-derby/article67597108.ece",
-      "urlToImage": null,
-      "publishedAt": "2023-12-02T03:02:00Z",
+      "author": "etimes.in",
+      "title": "Ranbir Kapoor's 'Animal' roars at the box office, eyeing a swift entry into the 200 crore club in 3 days - IndiaTimes",
+      "description": "'Animal' surpasses box office estimations, amassing Rs 65 crore on its debut day. The Hindi version alone collects Rs 54.75 crore, with the Telugu ver",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ranbir-kapoors-animal-roars-at-the-box-office-eyeing-a-swift-entry-into-the-200-crore-club-in-3-days/articleshow/105680854.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105680866,width-1070,height-580,imgsize-19570,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-02T12:11:51Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Hindustan Times"
+        "name": "Moneycontrol"
       },
-      "author": "Vaishnawi Sinha",
-      "title": "Sam Altman reveals why he was fired and then re-hired as OpenAI CEO - Hindustan Times",
-      "description": "After making a comeback as OpenAI CEO, Sam Altman reveals why he was fired and then re-hired at the top post in the Microsoft-backed firm.",
-      "url": "https://www.hindustantimes.com/business/sam-altman-reveals-why-he-was-fired-re-hired-as-openai-ceo-says-was-hurt-and-angry-microsoft-chatgpt-101701483322246.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/02/1600x900/ChatGPT-Altman-0_1700510901869_1701483385106.jpg",
-      "publishedAt": "2023-12-02T03:00:16Z",
-      "content": "After days of boardroom turmoil in Microsoft-backed company OpenAI, Sam Altman made a comeback as the CEO of the artificial intelligence firm on November 30. He was reinstated at the top post after b… [+2465 chars]"
+      "author": "Sunil Shankar Matkar",
+      "title": "Kross files draft papers with Sebi to raise Rs 500 crore via IPO - Moneycontrol",
+      "description": "The Kross IPO is mix of a fresh issuance of shares worth Rs 250 crore by the company, and an offer-for-sale (OFS) of shares worth Rs 250 crore by promoters.",
+      "url": "https://www.moneycontrol.com/news/business/ipo/kross-files-draft-papers-with-sebi-to-raise-rs-500-crore-via-ipo-11844111.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/12/Kross-770x433.jpg",
+      "publishedAt": "2023-12-02T11:56:31Z",
+      "content": "Trailer axle and suspension assembly manufacturing company Kross has filed draft papers with the capital markets regulator to raise Rs 500 crore via an initial public offering.\r\nThe IPO is a mix of a… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Mohammad Isam",
+      "title": "Southee admits NZ bowlers 'did not apply pressure long enough' - ESPNcricinfo",
+      "description": "\"There's many things you can look back on and as a side, you're just looking to improve and learn from this\"",
+      "url": "https://www.espncricinfo.com/story/tim-southee-admits-nz-bowlers-did-not-apply-pressure-long-enough-1411366",
+      "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/372000/372009.6.jpg",
+      "publishedAt": "2023-12-02T11:52:42Z",
+      "content": "News\"There's many things you can look back on and as a side, you're just looking to improve and learn from this\"\r\nMohammad Isam is ESPNcricinfo's Bangladesh correspondent. @isam84"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Livemint"
+      },
+      "author": "Livemint",
+      "title": "Cyclone Michaung: Depression to intensify into cyclonic storm by tomorrow; heavy rain in Andhra, Tamil Nadu | 10 points | Mint - Mint",
+      "description": "Another depression brewing over the Bay of Bengal expected to intensify into a Cyclonic Storm by Sunday, bringing severe rainfall to coastal districts of Tamil Nadu and Andhra Pradesh.",
+      "url": "https://www.livemint.com/news/india/cyclone-michaung-live-update-depression-to-intensify-into-cyclonic-storm-heavy-rain-in-andhra-pradesh-tamil-nadu-imd-11701515712538.html",
+      "urlToImage": "https://www.livemint.com/lm-img/img/2023/12/02/1600x900/Cyclone_1701515739295_1701515739448.jpg",
+      "publishedAt": "2023-12-02T11:47:39Z",
+      "content": "Cyclone Michaung News Update: A month after cyclone Hamoon, another depression is brewing over the Bay of Bengal and is likely to intensify into a Cyclonic Storm by Sunday.\r\n Due to the cyclonic acti… [+3297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Express Web Desk",
+      "title": "‘#Melodi’: Italian PM Meloni takes selfie with Modi at COP28, PM says meeting friends always a delight - The Indian Express",
+      "description": "On Friday the Italian Prime Minister posted a selfie with PM Modi on X with remarks, \"Good friends at COP28\" followed by hashtag 'Melodi', a mix of the two leaders' surnames.",
+      "url": "https://indianexpress.com/article/india/melodi-italian-pm-meloni-selfie-pm-modi-cop28-9051480/",
+      "urlToImage": "https://images.indianexpress.com/2023/12/cover-2.jpg",
+      "publishedAt": "2023-12-02T11:39:10Z",
+      "content": "Reacting to a selfie taken by his Italian counterpart Giorgia Meloni on the sidelines of COP28 Summit, Prime Minister Narendra Modi on Saturday said that it was always a delight meeting friends.On Fr… [+1600 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Sports Desk",
+      "title": "'MS Dhoni sends a message that...': Ruturaj Gaikwad reveals how the legend helped him visualise the situa - IndiaTimes",
+      "description": "Cricket News: Ruturaj Gaikwad attributed India's victory in the five-match T20I series against Australia to their bold and assertive approach. Gaikwad, who has been",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/ms-dhoni-sends-a-message-that-ruturaj-gaikwad-reveals-how-the-legend-helped-him-visualise-the-situation/articleshow/105679332.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-105680042,width-1070,height-580,imgsize-97288,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-12-02T11:32:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Jayprakash S Naidu",
+      "title": "Assembly Election Results: With a fight on its hands in Rajasthan and MP, Cong hopes Chhattisgarh will be plain sailing - The Indian Express",
+      "description": "As Bhupesh Baghel looks to return to power for a second term, BJP bets on its anti-corruption messaging paying off.",
+      "url": "https://indianexpress.com/article/political-pulse/chhattisgarh-assembly-election-results-congress-bhupesh-baghel-9051434/",
+      "urlToImage": "https://images.indianexpress.com/2023/12/Baghel.jpg",
+      "publishedAt": "2023-12-02T11:25:23Z",
+      "content": "For the Congress, the major challenge in the months leading up to the elections was the infighting in its camp that had continued to simmer underneath the surface. But with a few months to go, the pa… [+5179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "IANS",
+      "title": "NASA's Artemis manned mission to moon will not launch before 2027: Report - Investing.com India",
+      "description": "The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases.",
+      "url": "https://in.investing.com/news/nasas-artemis-manned-mission-to-moon-will-not-launch-before-2027-report-3922186",
+      "urlToImage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/f187a581f8c12e0c06939cf5c182b6c5_w_800_h_450.jpg",
+      "publishedAt": "2023-12-02T11:20:53Z",
+      "content": "Washington, Dec 2 (IANS) NASA's Artemis III mission which aims to return astronauts to the moon for the first time since 1972, may not launch in 2025 earlier planned, but in 2027, according to a repo… [+3118 chars]"
     }
   ]
 }

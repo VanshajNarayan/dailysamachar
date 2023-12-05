@@ -1,0 +1,50 @@
+.card_Section{
+  margin-top: 2rem;
+}
+
+.card_Section .cardBox{
+  /* border: 2px solid red; */
+  max-width: 100rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+  background-color: #FAF6F0;
+}
+
+.card_Section .cardBox .cards{
+  /* border: 2px solid rgb(0, 255, 68); */
+  background: #F3F3F3;
+}
+
+.card_Section .cardBox .cards .imgBox img{
+  max-width: 100%;
+  object-fit: cover;
+  height: 15rem;
+}
+
+.card_Section .cardBox .cards .textContent .title{
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin-bottom: 0.6rem;
+  margin-top: 0.6rem;
+  color: #000;
+}
+
+.card_Section .cardBox .cards .textContent .dateTime{
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  margin-bottom: 0.6rem;
+  color: #000;
+}
+
+.card_Section .cardBox .cards .textContent .description{
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  margin-bottom: 0.6rem;
+  color: #000;
+}

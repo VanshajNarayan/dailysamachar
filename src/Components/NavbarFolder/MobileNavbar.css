@@ -1,0 +1,28 @@
+.mobileNav_items{
+  background-color:  #000;
+  position: absolute;
+  width: 100%;
+}
+
+.mobileNav_items ul{
+  max-width: 30rem;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  list-style: none;
+  padding: 1rem;
+}
+
+.mobileNav_items ul li .active{
+  color: red;
+}
+
+.mobileNav_items ul li a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}

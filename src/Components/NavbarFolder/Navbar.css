@@ -1,0 +1,57 @@
+.navbar_container{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.navbar_container h4{
+  font-size: 2rem;
+  font-weight: 600;
+  color: #000;
+}
+
+.navbar_container ul{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.navbar_container ul li{
+  padding: 1rem;
+}
+
+.navbar_container ul li .active{
+  color: brown;
+}
+
+.navbar_container ul li a{
+  text-decoration: none;
+  color: #000;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+}
+
+.navbar_container .navbar_icons{
+  display: none;
+}
+
+.navbar_container .navbar_icons .icons{
+  color: #000;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+@media(width < 1200px){
+  .navbar_container ul{
+    display: none;
+  }
+  .navbar_container .navbar_icons{
+    display: block;
+  }
+}
